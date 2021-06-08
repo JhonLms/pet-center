@@ -1,0 +1,6 @@
+package model;
+
+public enum Status{
+	
+	WAITING,INCONSULT,HOSPITALIZATION,EXITAUTORIZE,EXITNOTATENTION;	
+}
